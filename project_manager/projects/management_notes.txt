@@ -1,0 +1,1 @@
+Progress bar placeholder implemented in project_detail.html (0%). Actual progress will be updated when Step 4 (tasks) is added.
